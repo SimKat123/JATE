@@ -6,12 +6,15 @@ A Text Editor App that users can use offline to write and organize notes.
 
 ## Table of Contents
 * [Installation](#installation)
+* [Usage](#usage)
 * [License](#license)
 * [Questions](#questions)
 
 ## Installation
 To install the necessary dependencies, run the following command: npm i
 
+## Usage
+The deployed Heroku app can be accessed through this [Link](https://stark-garden-35451.herokuapp.com/).
 ## License
 This project is licensed under the MIT license.
     
